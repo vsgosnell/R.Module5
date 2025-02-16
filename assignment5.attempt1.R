@@ -56,12 +56,12 @@ a <- t(A)
 b <- t(B)
 
 #multiply matrices by vectors
-A %*% B
+A %*% a
 
 # re-assign the vectors a and b to equal the number 
 # of rows of the column for the corresponding matrix
 a <- 10
-b <- 10
+b <- 100
 
 
 # Multiply the matrix by a matrix
