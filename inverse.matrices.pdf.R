@@ -22,8 +22,3 @@
 #this pdf breaks down the procedure to understand the inverse operations of matrices
 #it does not quite make sense to me
 
-
-
-
-
-
